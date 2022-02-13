@@ -4,8 +4,12 @@
 }
 
 body {
-    background-color: bisque;
+    margin: 0;
+    padding: 0;
 }
+
+
+/*     <! --- index.html --->  */
 
 #carouselExampleDark {
     margin: 0;
@@ -24,4 +28,34 @@ p {
 
 .back {
     background-color: aqua;
+}
+
+.p3 {
+    color: black;
+}
+
+.hed {
+    color: indianred;
+}
+
+
+/*     <! --- about.html--->  */
+
+.card-text {
+    color: black
+}
+
+
+/*   contact.html*/
+
+
+/*   service 1*/
+
+.lo {
+    color: gray;
+    text-align: center;
+}
+
+.card-title {
+    font-weight: 500;
 }
