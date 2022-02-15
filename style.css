@@ -19,7 +19,9 @@ body {
 }
 
 .yash {
-    color: red;
+    background-color: white;
+    text-align: center;
+    color: black;
 }
 
 p {
